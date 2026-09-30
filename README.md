@@ -20,3 +20,4 @@ GreenDen is a **practice website project** I built while learning **Tailwind CSS
 * **Git & GitHub**
 
 This is a **practice project** created to strengthen my front-end development and Tailwind CSS skills.
+
